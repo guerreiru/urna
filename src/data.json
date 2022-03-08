@@ -1,0 +1,57 @@
+{
+  "codigoFinalizacao": "0000",
+  "eleitores": [
+    {
+      "id": 1234,
+      "nome": "Eleitor A"
+    },
+    {
+      "id": 5678,
+      "nome": "Eleitor B"
+    },
+    {
+      "id": 9012,
+      "nome": "Eleitor C"
+    },
+    {
+      "id": 1111,
+      "nome": "Eleitor D"
+    }
+  ],
+  "lanches": [
+    {
+      "id": "00",
+      "nome": "Voto Branco"
+    },
+    {
+      "id": 11,
+      "nome": "Hamburguer"
+    },
+    {
+      "id": 22,
+      "nome": "Pizza"
+    },
+    {
+      "id": 33,
+      "nome": "Pastel"
+    },
+    {
+      "id": 44,
+      "nome": "Coxinha"
+    }
+  ],
+  "bebidas": [
+    {
+      "id": 444,
+      "nome": "Refrigerante"
+    },
+    {
+      "id": 777,
+      "nome": "Suco"
+    },
+    {
+      "id": 999,
+      "nome": "Água"
+    }
+  ]
+}
