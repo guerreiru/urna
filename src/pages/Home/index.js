@@ -52,7 +52,7 @@ export const Home = () => {
   return (
     <>
       <View>
-        <Header title="Digite o códito do usuário!" />
+        <Header title="Digite o código do usuário!" />
         <ContainerButton>
           <InputBtns title={userCode[0]} />
           <InputBtns title={userCode[1]} />
